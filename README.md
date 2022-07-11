@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, Inc.
 
 ## Purpose
 A website that offers fitness training services.
@@ -14,4 +14,4 @@ https://mrphuzzles.github.io/run-buddy/
 Made with ❤️ by James Tietjen
 
 
-### ©️2019 Run Buddy, Inc 
+### ©️2019 Run Buddy, Inc
